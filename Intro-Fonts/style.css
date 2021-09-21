@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@200;600&display=swap');
+
+h1, p {
+    color:peru;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+h1 {
+    font: weight 200px;
+    font-size: 2em; 
+}
+
+p {
+    color:plum;
+    font-weight: 600;
+    font-size: 3em;
+}
+.pixel{
+    font-size: 48px;
+}

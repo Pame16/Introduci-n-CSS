@@ -1,0 +1,35 @@
+*{
+    background-color: darkslateblue;
+}
+h1{
+    color:plum;
+    font-size: 72px;
+    background-color: rgb(37, 182, 175);
+}
+div{
+    background-color: magenta;
+    margin-top: 5%;
+}
+.divDistinto {
+    background-color: rgb(95, 95, 160);
+    margin-top: 5%;
+}
+
+#textoLorem{
+    color:white 
+ }
+ #textoLorem span{  
+     color:teal
+ }
+
+ p.textoLorem.texto2{
+     color:tomato
+ }
+ p.textoLorem {
+     color:teal
+ }
+
+ ul li{
+     list-style-type: square;
+     color:yellowgreen
+ }

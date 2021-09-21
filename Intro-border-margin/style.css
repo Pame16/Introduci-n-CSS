@@ -1,0 +1,19 @@
+body{
+    background-color: forestgreen;
+    margin: 0;
+}
+div{
+    background-color: deepskyblue;
+    margin: 4% 25% 3% 10%;
+    padding: 0% 5%;
+    border-radius: 10px;
+}
+div p {
+    color: purple;
+}    
+p {
+    color: orangered;
+}
+.lorem {
+    color: peru;
+}
